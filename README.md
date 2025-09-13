@@ -154,7 +154,8 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2024 BOMR Project Team
+Copyright (c) 2024 EPFL - École Polytechnique Fédérale de Lausanne
+Basics of Mobile Robotics course Project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
